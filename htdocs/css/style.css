@@ -1,0 +1,14 @@
+.card {
+  width: 32%;
+  margin-left: 1%;
+}
+.card-header {
+  color: red;
+  text-decoration-color: blue;
+}
+.txt-color {
+  color: black;
+}
+.img {
+  height: 32%;
+}
